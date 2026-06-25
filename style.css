@@ -45,24 +45,28 @@ button{
     border-radius: 25px;
     border: none;
     background-color: black;
-    color: gray;
+    color: white;
     font-size: 1.4rem;
     font-weight: bold;
     cursor: pointer;
 }
 
 .operator-btn{
-    background-color: orange;
+    background-color: #f0a500;
+    color: white;
 }
 
 .zero{
     grid-column: span 2;
     background-color: #232429;
+   
 }
 
 .utility-btn{
     background-color: #393a3f;
+    color: white;
 }
 .number-btn{
     background-color: #232429;
+    color: white;
 }
